@@ -94,21 +94,13 @@ telco-churn-prediction/
 
 ### Setup
 
+
+
+
 1. **Clone or download the repository:**
    ```bash
-   git clone <repository-url>
-   cd telco-churn-prediction
-
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-
-
-
-
-
-
-
+   git clone https://github.com/Baneenraza/telco-churn-prediction-.git
+   cd telco-churn-prediction-
 
 
 2. **Create a virtual environment (recommended):**
@@ -335,7 +327,7 @@ This project is open-source and available for educational and commercial use. Th
 
 ## Acknowledgments
 
-- Dataset: IBM Sample Data Sets — Telco Customer Churn
+- Dataset: Kaggle Sample Data Sets — Telco Customer Churn
 - Visualization inspired by modern dark-themed analytics dashboards
 - scikit-learn documentation for GridSearchCV and model evaluation patterns
 
