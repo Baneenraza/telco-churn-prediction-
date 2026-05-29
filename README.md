@@ -23,8 +23,7 @@ A machine learning project that predicts customer churn for a telecommunications
 ---
 
 ## Overview
-
-This project analyzes the **WA_Fn-UseC_-Telco-Customer-Churn.csv** dataset to build predictive models that identify customers at risk of leaving the service. The analysis includes exploratory data analysis, feature engineering, hyperparameter tuning, and model comparison across three algorithms: Decision Tree, Random Forest, and Logistic Regression.
+This project analyzes the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) to build predictive models that identify customers at risk of leaving the service. The analysis includes exploratory data analysis, feature engineering, hyperparameter tuning, and model comparison across three algorithms: Decision Tree, Random Forest, and Logistic Regression.
 
 **Key Features:**
 - Comprehensive EDA with distribution visualizations
